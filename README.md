@@ -6,17 +6,10 @@ This repository is a dedicated for scripts and style assets, not for code review
 
 **For JavaScript files**
 ```
-<script src="https://cdn.jsdelivr.net/gh/aeronje/landing_pages_scripts@main/repository_name/scriptName.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/profile_name/repository_name@main/folder_name/scriptName.js"></script>
 ```
 **For CSS or styling files**
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aeronje/landing_pages_scripts@main/repository_name/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/profile_name/repository_name@main/folder_name/style.css">
 ```
-
-
-
-
-
-
-
-
+These tags use [jsDelivr](https://cdn.jsdelivr.net) CDN to load external resources instead of local files to improve accessibility and reducing load time.
